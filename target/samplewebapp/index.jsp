@@ -1,8 +1,7 @@
 <html>
   <body>
-    <h1>Hello World from Jenkins + Tomcat!</h1>
-    <p>This app was built by Jenkins and deployed to Tomcat automatically.</p>
-    <a href="hello">Click here to test servlet</a>
+    <h1>Second Assignment from Jenkins Pipeline Job</h1>
+    <p>This app was built in Jenkins Pipeline Job and deployed to Tomcat succesfully.</p>
+    <a href="hello">Click here for more info</a>
   </body>
 </html>
-
